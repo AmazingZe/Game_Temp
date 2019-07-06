@@ -62,3 +62,5 @@ AI_Test/Temp/UnityLockfile
 AI_Test/Temp/
 Game_temp/Library/
 Game_temp/Logs/
+Game_temp/obj/
+Game_temp/Temp/
